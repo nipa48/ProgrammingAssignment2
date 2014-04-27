@@ -21,8 +21,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-## Write a short comment describing this function
-## Create a new sove function with caching functionality
+## Create a new solve function with caching functionality
 #- input : caching matrix object
 #- output: inverse of the matrix object
 
